@@ -32,3 +32,8 @@
 
 ## Competition
 * [Detecting Click Fraud in Online Advertising: A Data Mining Approach](/papers/JMLR'13.pdf) by Richard Oentaryo et al. JMLR 2014.
+* [Feature Engineering for Click Fraud Detection](http://research.larc.smu.edu.sg/fdma2012/doc/FirstWinner-Starrystarrynight-Paper.pdf) by Clifton Phua et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
+* [A Novel Approach Based on Ensemble Learning for Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/SecondWinner-TeamMasdar-Paper.pdf) by Kasun S. Perera et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
+* [Hybrid Models for Click Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/ThirdWinner-DB2-Paper.pdf) by Chen Wei et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
+* [Random Forests for the Detection of Click Fraud in Online Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/FirstRunnerUp-Tea-Paper.pdf) by Daniel Berrar et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
+* [Hierarchical Committee Machines for Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/SecondRunnerUp-Kites-Paper.pdf) by S. Shivashankar et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
