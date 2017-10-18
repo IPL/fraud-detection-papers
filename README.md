@@ -24,6 +24,17 @@
 
 ## Bluff Ads
 * [Fighting Online Click-Fraud Using Bluff Ads](/papers/10.1.1.471.8973.pdf) by Hamed Haddadi. ACM Computer Communication Review 2010.
+
+	很短的一篇paper, 只有4页, 但是引用次数很多, 70多次, 主要还是因为思路的创造性.
+
+	Bluff Ad是专门设计可以被机器或者没有经过足够训练的作弊人力检测和点击的广告. 一种可能是广告的展示文本不相关, 另一种形式是定向到不相关的人群. 无论哪种形式, 正常的用户一般都不会去点击.
+
+	然后作者列举了4种作弊的方式, 并且介绍了bluff ad是怎么工作的. 4种作弊方式分别是Profiling the customer, Publisher fraud, Attacks on advertisers, 以及Attacks on publisher. Bluff/real比例高代表作弊可能高. 这里没有任何公式, 都是定性的文字描述.
+
+	作者做了很简单的一组实验, 分成一个正常的广告, 和三组bluff ads, 在Google Adword上投放, 以实际数据表明相对正常广告来说, bluff ad的点击率确实很低. 但是这个实验太过简单, 并且数据量很小, 也没有排除其他原因的干扰, 比如其中有两组广告根本没有获得曝光机会, 也就无从对比点击率.
+
+	总的来说, 是一篇很有创新的paper, 但是内容有限. 而且根据对作者的检索, 也没有发现后续有更深入的研究成果.
+
 * [Measuring and Fingerprinting Click-Spam in Ad Networks](/papers/sigcomm12-clickspam.pdf) by Vacha Dave et al. ACM SIGCOMM Conference on Data Communication 2012.
 
 ## Mobile Apps
@@ -42,7 +53,7 @@
 		4. 最终一共生成了41个特征, 完整列表在http://www.dnagroup.org/PDF/FDMA12_TeamMasdar_AppendixA.pdf.
 	2. 特征选择: 作者使用了Principal Component Analysis (PCA), Common Spatial Patterns (CSP), 以及wrapper subset evaluation做特征选择. 经过对比测试, 第三种方法相对前两种要好. (但是实际上特征选择没有真正发挥作用, 后面有讲到.)
 	3. 方法使用: 作者尝试了决策树, 回归树, 神经网络, 还有SVM. 每个方法都使用了不同的learning algorithm. 经过分析, 发现决策树算法是最好的. (决策树的结果也最容易解释, 正好适用于反作弊系统)
-	4. 样本数据是高度倾斜的, 其中包括2.336%的作弊者, 2.596%的不确定和95.068%的未作弊数据. 为了应对数据倾斜, 使用了Resampling和SMOTE. 具体结果在后面有讲到. 
+	4. 样本数据是高度倾斜的, 其中包括2.336%的作弊者, 2.596%的不确定和95.068%的未作弊数据. 为了应对数据倾斜, 使用了Resampling和SMOTE. 具体结果在后面有讲到.
 	5. 作者使用了Bagging, Metacost, random subspace, 以及logiboost来进行集成学习.
 	6. 作者最终使用了6个模型取平均, 包括Bagging with J48, Bagging with Reptree, Bagging with Random Forest, Metacost with J48, Logiboost with J48, Random subspace with J48.
 	7. 结果分析
