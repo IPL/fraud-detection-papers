@@ -67,5 +67,8 @@
 * [Random Forests for the Detection of Click Fraud in Online Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/FirstRunnerUp-Tea-Paper.pdf) by Daniel Berrar et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
 * [Hierarchical Committee Machines for Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/SecondRunnerUp-Kites-Paper.pdf) by S. Shivashankar et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
 
+## Dateset
+* [FDMA 2012 Competition Dataset](https://docs.google.com/file/d/0B77LA4oEl-AQTGRHSVNMczJhVTg) by BuzzCity Pte. Ltd. FDMA 2012.
+
 ## White Paper
 * [2017广告反欺诈白皮书](https://3gimg.qq.com/mig_op/beacon/download/baipishu.pdf) by 腾讯灯塔, 秒针, AdMaster. 2017.
