@@ -44,6 +44,9 @@
 ## Duplicate Detection
 * [Detecting Click Fraud in Pay-Per-Click Streams of Online Advertising Networks](https://www.researchgate.net/profile/Linfeng_Zhang4/publication/4365107_Detecting_Click_Fraud_in_Pay-Per-Click_Streams_of_Online_Advertising_Networks/links/56f12ac908ae9a58a829435f.pdf) by Linfeng Zhang et al. ICDCS 2008.
 
+## Association Rule
+* [Using Association Rules for Fraud Detection in Web Advertising Networks](https://p2p.cs.ucsb.edu/research/tech_reports/reports/2005-13.pdf) by Ahmed Metwally et al. VLDB 2005.
+
 ## Competition
 * [Detecting Click Fraud in Online Advertising: A Data Mining Approach](/papers/JMLR'13.pdf) by Richard Oentaryo et al. JMLR 2014.
 * [Feature Engineering for Click Fraud Detection](http://research.larc.smu.edu.sg/fdma2012/doc/FirstWinner-Starrystarrynight-Paper.pdf) by Clifton Phua et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
