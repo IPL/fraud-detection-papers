@@ -1,3 +1,5 @@
+## [A Novel Approach Based on Ensemble Learning for Fraud Detection in Mobile Advertising](http://research.larc.smu.edu.sg/fdma2012/doc/SecondWinner-TeamMasdar-Paper.pdf)
+
 1. 特征抽取: 借鉴了Google AdSense反作弊的一些特征, 同时也参考了传统反作弊系统的一些研究成果, 因为移动广告反作弊还处于新兴阶段.
 	1. 时间特征: 作弊方经常使用多种技巧隐藏自己的活动, 例如生成非常稀疏的点击序列, 改变IP地址, 从不同国家的计算机发出点击等等; 还有一些是坚持使用传统方法, 即只在给定时间间隔内产生最大点击次数. 反作弊系统需要识别出这两种方式. 作者选择1 min, 5 min, 1 hours, 3hours and 6 hours的时间间隔, 来统计他们的点击次数, 并综合所有的时间间隔的数据, 统计平均值, 最大值, 方差以及偏度作为特征.
 	2. IP特征: 构造了最大同IP点击数, IP总数, 平均每IP点击数, IP点击的熵, IP点击的方差等特征.

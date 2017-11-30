@@ -1,3 +1,5 @@
+## [The Lane’s Gifts v. Google Report](/papers/Alexandr_Tuzhilin_Report.pdf)
+
 这是由Alexander Tuzhilin主导的对Google的无效点击检测系统的独立评估, 反映了当时(2006年)的Google反作弊系统的状态, 以及发展进程. 几个有意思的地方:
 1. 人员组成. Click Quality团队的工程部分有10多个人, Spam Operations有20多个人, 还可以获得很多其他团队的支持.
 2. Google主要使用Anomaly-based和Rule-based方法检测无效点击, 也会少量使用Classifier-based方法.
