@@ -18,6 +18,10 @@
 ## Association Rule
 * [Using Association Rules for Fraud Detection in Web Advertising Networks](https://p2p.cs.ucsb.edu/research/tech_reports/reports/2005-13.pdf) by Ahmed Metwally et al. VLDB 2005.
 
+## RNN
+* [Detecting Fraudulent Behavior Using Recurrent Neural Networks](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf) by Yoshihiro Ando et al. Computer Security Symposium 2016.
+* [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+
 ## Competition
 * [Detecting Click Fraud in Online Advertising: A Data Mining Approach](http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf) by Richard Oentaryo et al. JMLR 2014.
 * [Feature Engineering for Click Fraud Detection](http://research.larc.smu.edu.sg/fdma2012/doc/FirstWinner-Starrystarrynight-Paper.pdf) by Clifton Phua et al. International Workshop on Fraud Detection in Mobile Advertising (FDMA) 2012.
