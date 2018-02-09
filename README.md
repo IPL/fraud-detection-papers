@@ -6,6 +6,7 @@
 
 * email: xinyu.wang1@gmail.com
 * 知乎: [王新宇的知乎](https://www.zhihu.com/people/master)
+* 微信: ![](/image/wechat.jpg)
 
 ## Advertising
 
