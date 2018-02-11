@@ -54,3 +54,6 @@
 ### RNN
 * [Detecting Fraudulent Behavior Using Recurrent Neural Networks](http://lab.iisec.ac.jp/~tanaka_lab/images/pdf/kennkyukai/kennkyukai-2016-10.pdf) by Yoshihiro Ando et al. Computer Security Symposium 2016.
 * [Session-Based Fraud Detection in Online E-Commerce Transactions Using Recurrent Neural Networks](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017.pdf) by Shuhao Wang et al. PKDD 2017. [Slides](http://iiis.tsinghua.edu.cn/~weixu/files/SWang_ECMLPKDD_2017_Slides.pdf)
+
+### White Paper
+* [2017电子商务生态安全白皮书](http://hchdownload.oss-cn-hangzhou.aliyuncs.com/%E4%BC%9A%E8%AE%AE%E6%96%87%E6%A1%A3/2017%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E7%94%9F%E6%80%81%E5%AE%89%E5%85%A8%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) by 电子商务生态安全联盟. 2017.
