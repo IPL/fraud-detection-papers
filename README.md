@@ -46,7 +46,14 @@
 ## Other Areas
 
 ### Anomaly Detection
+
+#### Survey
 * [Anomaly Detection: A Survey](https://www.cs.umn.edu/sites/cs.umn.edu/files/tech_reports/07-017.pdf) by Varun Chandola et al. ACM Computing Surveys, Vol. 41, No. 3, 15, 01.07.2009.
+
+#### Open Source Toolkit
+* [Scikit-learn Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html)
+* [Python Outlier Detection (PyOD)](http://pyod.readthedocs.io)
+* [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io)
 
 ### Report
 * [Facebook Immune System](https://css.csail.mit.edu/6.858/2012/readings/facebook-immune.pdf) by Tao Stein et al. Proceedings of the 4th Workshop on Social Network Systems, SNS, 2011.
