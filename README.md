@@ -42,6 +42,7 @@
 ### White Paper
 * [2017广告反欺诈白皮书](https://3gimg.qq.com/mig_op/beacon/download/baipishu.pdf) by 腾讯灯塔, 秒针, AdMaster. 2017.
 * [The State of Mobile Fraud Q1 2018](https://hub.appsflyer.com/hubfs/State%20of%20Mobile%20Fraud%20Q1%202018%20AppsFlyer.pdf) by Appsflyer. 2018.
+* [2020中国移动广告反欺诈白皮书](https://s.tencent.com/subjects/downloads/pdf/20201229/2020%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E5%B9%BF%E5%91%8A%E5%8F%8D%E6%AC%BA%E8%AF%88%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf) by 腾讯安全天御, 腾讯防火墙, InMobi. 2020.
 
 ## Other Areas
 
